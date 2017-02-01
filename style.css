@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-h1 {
+h1 "Hello World" {
 text-align:center;
 color:red;
 }
